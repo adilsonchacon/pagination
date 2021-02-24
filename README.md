@@ -7,7 +7,7 @@
 ## Test
 
         $ cd /go/path/github.com/adilsonchacon/pagination
-        $ go test -v
+        $ go test . -v
 	
 ## Usage
 
