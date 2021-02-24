@@ -2,11 +2,12 @@
 
 ## Instalation
 
-```go get github.com/adilsonchacon/pagination```
+        $ go get github.com/adilsonchacon/pagination
 
 ## Usage
 
-```package main
+```go
+package main
 
 import (
 	"fmt"
