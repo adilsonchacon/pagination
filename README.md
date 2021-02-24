@@ -4,6 +4,11 @@
 
         $ go get github.com/adilsonchacon/pagination
 
+## Test
+
+        $ cd /go/path/github.com/adilsonchacon/pagination
+        $ go test -v
+	
 ## Usage
 
 ```go
